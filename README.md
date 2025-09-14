@@ -1,6 +1,8 @@
 **About Admin Menu**
 
-<img width="400" height="400" alt="изображение" src="https://github.com/user-attachments/assets/5bececc9-a9cc-4013-958f-d8268a785bb0" />
+<div align="center">
+  <img width="400" height="400" alt="изображение" src="https://github.com/user-attachments/assets/5bececc9-a9cc-4013-958f-d8268a785bb0" />
+</div>
 
 Manage your Rust server easier and more efficiently with the AdminMenu plugin. Track players, interact with them, edit their data and permissions, as well as change server convars and manage plugins.
 
